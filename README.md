@@ -1,2 +1,14 @@
 # 2026worldcup-wwwnow-archive
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
